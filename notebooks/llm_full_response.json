@@ -1,0 +1,48 @@
+{
+  "content": "\u201cAgent\u201d generally means an entity that acts, causes effects, or represents someone else. Common uses:\n\n- General: anything that can act or bring about change.\n- AI/computer science: a system that perceives its environment, decides (via a policy/planner), and acts to achieve goals (e.g., software bots, autonomous robots, LLM-based tool users).\n- Software: programs that run tasks on your behalf (background \u201cagents,\u201d monitoring or automation).\n- Multi-agent systems: multiple interacting agents that may cooperate or compete.\n- Economics (principal\u2013agent): a person/firm (agent) acting for a principal; focuses on incentives, information asymmetry, and agency costs.\n- Law/business: someone authorized to act for another, with duties defined by agency law (e.g., fiduciary duties).\n- Chemistry/medicine: a substance that produces a specific effect (e.g., reducing agent, contrast agent, antiviral agent).\n- Professions: roles that represent clients (real estate agent, talent agent, travel agent).\n\nWhich context do you have in mind (AI/software, economics/law, chemistry/medicine, or something else)?",
+  "additional_kwargs": {
+    "refusal": null
+  },
+  "response_metadata": {
+    "token_usage": {
+      "completion_tokens": 625,
+      "prompt_tokens": 11,
+      "total_tokens": 636,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": 0,
+        "audio_tokens": 0,
+        "reasoning_tokens": 384,
+        "rejected_prediction_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0
+      }
+    },
+    "model_name": "gpt-5-2025-08-07",
+    "system_fingerprint": null,
+    "id": "chatcmpl-CH8zNaemxHluWOAeDGMxOT40AkB6O",
+    "service_tier": "default",
+    "finish_reason": "stop",
+    "logprobs": null
+  },
+  "type": "ai",
+  "name": null,
+  "id": "run--8764bb57-c19c-41d3-b6ec-3cbb05b7f986-0",
+  "example": false,
+  "tool_calls": [],
+  "invalid_tool_calls": [],
+  "usage_metadata": {
+    "input_tokens": 11,
+    "output_tokens": 625,
+    "total_tokens": 636,
+    "input_token_details": {
+      "audio": 0,
+      "cache_read": 0
+    },
+    "output_token_details": {
+      "audio": 0,
+      "reasoning": 384
+    }
+  }
+}
