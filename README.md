@@ -13,3 +13,6 @@ copy from https://raw.githubusercontent.com/langchain-ai/agents-from-scratch/ref
 
 # Install the package with development dependencies
 uv sync --extra dev
+
+
+pip install ipykernel -U --force-reinstall
